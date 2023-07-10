@@ -16,4 +16,3 @@ Original PyTorch implementation of **DPMAC** from
     2. Poreference (in codes) -> Cooperative Communication & Navigation (in paper).
     3. SimSpread (in codes) -> Cooperative Navigation (in paper).
 3. Dependences: forMARL.yaml.
-4. Some modules are useless and will be deleted in the future. Please ignore such modules.
